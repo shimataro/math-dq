@@ -8,3 +8,4 @@
 * [不等式](./inequality)
     * [自然回復を打ち破れ](./inequality/autohealing.md)
     * [じゅもんで倒そう](./inequality/spell.md)
+    * [はぐれメタルを倒そう](./inequality/hagure.md)
