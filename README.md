@@ -7,9 +7,9 @@
 
 なお、特に断りのない限り、**1人パーティー**とします。
 
-* [不等式](./inequality)
+* 不等式
     * [自然回復を打ち破れ](./inequality/autohealing.md)
     * [じゅもんで倒そう](./inequality/spell.md)
     * [はぐれメタルを倒そう](./inequality/hagure.md)
-* [アルゴリズム](./algorithm)
+* アルゴリズム
     * [まんたんに回復しよう](./algorithm/fill.md)
